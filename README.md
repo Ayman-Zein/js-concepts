@@ -9,3 +9,5 @@ JavaScript concepts with examples.
 3- usage of spread and rest operator.
 
 4- array and object destructuring.
+
+5- primitive types and reference types.
